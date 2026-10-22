@@ -27,4 +27,4 @@ Total storage needed: 250.00 MB
 ```
 
 ## Author
-Your Name - CS-117 Introduction to ICT, Lab 11 (add your group/section if instructed)
+Your Name - CS-117 Introduction to ICT, Lab 11 (Muhammad Shaheer and Mahad/section if instructed)
